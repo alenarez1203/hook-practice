@@ -3,4 +3,4 @@ function calculate(a, b) {
         return "Ошибка: деление на ноль";
     }
     return a / b;
-}
+
